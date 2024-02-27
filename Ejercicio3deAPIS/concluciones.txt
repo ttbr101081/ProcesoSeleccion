@@ -1,0 +1,8 @@
+En conclusión, después de realizar pruebas automatizadas en la API del Petstore, 
+se ha demostrado que las operaciones de creación, búsqueda, actualización y eliminación
+de usuarios funcionan correctamente. Durante las pruebas, creamos un usuario, buscamos 
+el usuario creado, actualizamos la información del usuario, verificamos que la actualización
+fue exitosa, eliminamos el usuario y finalmente confirmamos que el usuario fue eliminado 
+correctamente. No se encontraron fallos durante estas operaciones, lo que indica que la 
+API está funcionando como se esperaba. Esto demuestra la efectividad de nuestras pruebas 
+automatizadas y la calidad de la API.

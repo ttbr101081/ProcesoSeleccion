@@ -1,0 +1,7 @@
+En conclusión, después de realizar una serie de pruebas automatizadas en el sitio web OpenCart, 
+se puede afirmar que el proceso de compra de dos productos funciona correctamente. 
+Durante las pruebas, no se encontró ningún fallo, lo que indica que los usuarios pueden realizar 
+compras de manera eficiente y sin problemas en el sitio. 
+Esto demuestra la efectividad de nuestras pruebas automatizadas y la calidad del software del sitio web.
+Sin embargo, es importante continuar con las pruebas regulares para mantener la funcionalidad y la experiencia 
+del usuario a medida que el sitio web evoluciona y se actualiza.
