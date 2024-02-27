@@ -171,17 +171,3 @@ Proyecto generado con serenity, Junit5, maven, java, selenium
 
  ![image](https://github.com/ttbr101081/E2E/assets/79415192/f806181f-2942-4399-96bf-6b1941e9850f)
 
-**** VER LOS INFORMES SUBIDOS ****
-
-* Abrir Carpeta E2E
-* Descomprimir carpeta "sites"
-
-![image](https://github.com/ttbr101081/E2E/assets/79415192/7e01543f-e16d-4749-8665-29d4068faef1)
-
-  
-* Abrir carpeta "sites" luego abrir carpeta "serenity"
-* abrir archivo "index.html"
-
-![image](https://github.com/ttbr101081/E2E/assets/79415192/9922ccce-c910-491c-9e5e-8eb98a742102)
-
-![image](https://github.com/ttbr101081/E2E/assets/79415192/598da11b-2a13-4e74-9aeb-432d34d35c89)
